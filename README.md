@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BasilKudinov
-- 👀 I’m interested in Java, SQL, C#, 1С.
-- 🌱 I’m currently learning Java, SQL, C#.
+- 👀 I’m interested in Java, SQL, C#, Android, 1С.
+- 🌱 I’m currently learning Java, SQL, C#, Android.
 - 📫 How to reach me: in Telegram @BasilKudinov (preferably); e-mail: kudinov.money@yandex.ru; 
 
 <!---
